@@ -1,0 +1,38 @@
+body {
+    box-sizing: border-box;
+    background-color: #0e0e18;
+}
+
+html {
+    font-size:20px;
+    font-family:sereif;
+}
+
+.container {
+    color: ghostwhite;
+    width: 40%;
+    margin: auto;
+    position: relative;
+    top: 200px;
+    background-color: #2a2f37;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.container p:first-of-type {
+    text-align: center;
+    color: greenyellow;
+    font-size: 0.7rem;
+}
+
+.another {
+    background-color: green;
+    border: none;
+    width: 70px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 3px;
+    position: relative;
+    left: 48%;
+    bottom: -36px;
+}
